@@ -24,9 +24,9 @@ Fuction of the system
 
 1. Locate and show map guidance and estimated arriving time.
 2. Onlne service based on user ID 
-a. Library 
-b. Computer reservation service (e.g. computer in a lab.room)
-c. Remind service(e.g. the class will start in 5minutes,go now)
-d. online chat(work as social media)
+a.  Library 
+b.  Computer reservation service (e.g. computer in a lab.room)
+c.  Remind service(e.g. the class will start in 5minutes,go now)
+d.  online chat(work as social media)
 3. //This is for 2nd stage
 Establish communication between indoor and outdoor postioning system.
