@@ -30,5 +30,5 @@ Fuction of the system
 * Remind service(e.g. the class will start in 5minutes,go now)
 * Online chat(work as social media)
 
-3. This is for 2nd stage
+This is for 2nd stage
 Establish communication between indoor and outdoor postioning system.
