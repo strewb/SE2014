@@ -1,5 +1,4 @@
 SE2014
 ======
 
-
-Indoor positioning system for SE course.
+This project is an assignment of software engineering course. Indoor positioning system campus related and Github are the tools to be used in the project. 
