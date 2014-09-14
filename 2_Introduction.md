@@ -5,6 +5,7 @@ This project is conducted by IT students of Helsinki Metropolia University of Ap
 Target user groups
 
 ==================
+
 +Students
 +Teachers
 +Visitors
