@@ -2,8 +2,9 @@ Background
 ===========
 This project is conducted by IT students of Helsinki Metropolia University of Applied Sciences. The purpose is for practicing software engineering process and its phases as well as methods and tools. Before start the project, students are divided into groups. Each group is required to devlope a topic which would use indoor positioning sytem to benefit all user groups inside Leppavaara campus of Metropolia. In order to cooperate with each other, Github version control system was introduced to student.
 
-Target user groups
 
+
+Target user groups
 ==================
 
 +Students
