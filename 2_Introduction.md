@@ -7,11 +7,11 @@ This project is conducted by IT students of Helsinki Metropolia University of Ap
 Target user groups
 ==================
 
-+Students
-+Teachers
-+Visitors
-+New comers
-+Other faculties
+1.Students
+2.Teachers
+3.Visitors
+4.New comers
+5.Other faculties
 
 
 System requirements
