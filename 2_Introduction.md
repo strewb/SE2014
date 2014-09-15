@@ -7,7 +7,7 @@ In our team, we give the name of the team as "CoolKids" and we would like to des
 System description
 ==================
 
-GuideMePlease is an indoor positioning system which allows user to locate people or places inside Metopolia campus. It building on the existing Wi-Fi network. User could download the application to their smart phone by visiting a link or scan a QR code. The main target group will be the first year or exchange students as well as other user groups. (As for details, please take a look of the next section.) People could choose whether or not to log in their account.  Both dropdown menu and searh button are available for selecting/ typing the target location/person.  
+GuideMePlease is an indoor positioning system which allows user to locate people or places inside Metopolia campus. It builds on the existing Wi-Fi network. User could download the application to their smart phone by visiting a link or scan a QR code. The main target group will be the first year or exchange students as well as other user groups. (As for details, please take a look of the next section.) People could choose whether or not to log in their account.  Both dropdown menu and searh button are available for selecting/ typing the target location/person.  
 
 Target user groups 
 ==================
