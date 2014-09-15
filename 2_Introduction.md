@@ -2,9 +2,14 @@ Background
 ===========
 This project is conducted by IT students of Helsinki Metropolia University of Applied Sciences. The purpose is for practicing software engineering process and its phases as well as methods and tools. Before start the project, students are divided into groups. Each group is required to devlope a topic which would use indoor positioning sytem to benefit all user groups inside Leppavaara campus of Metropolia. In order to cooperate with each other, Github version control system was introduced to student.
 
+In our team, we give the name of the team as "CoolKids and we would like to design an indoor positioning system under the title of GuideMePlease".  
 
+System description
+==================
 
-Target user groups
+GuideMePlease is an indoor positioning system which allows user to locate people or places inside Metopolia campus. It building on the existing Wi-Fi network. User could download the application to their smart phone by visiting a link or scan a QR code. The main target group will be the first year or exchange students as well as other user groups. (As for details, please take a look of the next section.) People could choose whether or not to log in their account.  Both dropdown menu and searh button are available for selecting/ typing the target location/person.  
+
+Target user groups 
 ==================
 
 1. Students
@@ -13,11 +18,6 @@ Target user groups
 4. New comers
 5. Other faculties
 
-
-System requirements
-=============================================
-
-This system will utilize existed Wi-Fi network, user's smart phone and a well designed application for different smart phone user groups. (e.g. Windows phone, Android and IOS phone)
 
 Fuction of the system
 =====================
